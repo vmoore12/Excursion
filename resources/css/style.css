@@ -15,6 +15,10 @@ h1 {
   color: white;
   text-align: center;
 }
+.link {
+font-size: 16px;
+color: aquamarine;
+}
 p {
   font-size: 21px;
   color: gray;
@@ -26,8 +30,7 @@ p {
    margin-right: auto;
  }
 
-
-p .copyright  {
+#copyright {
   text-align: right;
   color: gray;
 }
